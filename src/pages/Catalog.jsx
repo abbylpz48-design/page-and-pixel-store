@@ -45,7 +45,7 @@ function Catalog() {
               <div className="mt-auto pt-6 flex justify-between items-center border-t border-parchment">
                 <span className="text-2xl font-serif text-primary">${product.price.toFixed(2)}</span>
                 <a 
-                  href={product.stripeLink}
+                  href={product.purchaseLink}
                   className="bg-secondary text-white px-6 py-2 rounded-cozy-md font-bold hover:bg-[#B45309] transition-all shadow-cozy-sm hover:shadow-cozy-md active:scale-95"
                 >
                   Buy Now

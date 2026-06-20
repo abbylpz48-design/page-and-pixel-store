@@ -7,7 +7,7 @@
     "category": "fiction",
     "description": "Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the earth itself will perish. A gripping tale of survival, science, and the power of friendship.",
     "image": "./images/cover_hail_mary.png",
-    "stripeLink": "https://buy.stripe.com/3cIfZh8E45OJ0W91X91oI00"
+    "purchaseLink": "https://bookshop.org/a/125372?q=Project+Hail+Mary"
   },
   {
     "id": "prod_nonfiction_atomic_habits",
@@ -17,7 +17,7 @@
     "category": "non-fiction",
     "description": "The definitive guide to breaking bad behaviors and adopting good ones in four steps, showing you how small, incremental, everyday routines compound into massive, positive change over time.",
     "image": "./images/cover_atomic_habits.png",
-    "stripeLink": "https://buy.stripe.com/4gM8wPg6w90V34hgS31oI01"
+    "purchaseLink": "https://bookshop.org/a/125372?q=Atomic+Habits"
   },
   {
     "id": "prod_children_places_go",
@@ -27,6 +27,6 @@
     "category": "children",
     "description": "Dr. Seuss’s wonderfully wise graduation speech is the perfect send-off for children starting out in the world, from nursery school to college and beyond!",
     "image": "./images/cover_places_go.png",
-    "stripeLink": "https://buy.stripe.com/3cIdR907y4KFeMZ0T51oI02"
+    "purchaseLink": "https://bookshop.org/a/125372?q=Oh+the+Places+You%27ll+Go"
   }
 ]
