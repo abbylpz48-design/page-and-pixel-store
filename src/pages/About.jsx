@@ -12,11 +12,11 @@ function About() {
               Page & Pixel was born out of a love for the smell of paper, the feel of a spine, and the 
               serendipity of a handpicked recommendation.
             </p>
-            <p className="text-lg md:text-xl leading-relaxed text-ink font-sans">
-              Every book in our collection is curated with care. We don't use algorithms; we use our hearts. 
-              When you order from us, you're not just getting a book—you're getting a package prepared with 
-              love, complete with a handwritten note and a custom bookmark.
-            </p>
+              <p className="text-lg md:text-xl leading-relaxed text-ink font-sans">
+                Every book in our collection is curated with care. We don't use algorithms; we use our hearts.
+                We partner with Bookshop.org to ensure that your purchase supports independent bookstores across the country,
+                connecting the tradition of physical books with the modern convenience of the web.
+              </p>
           </div>
           <div className="flex-shrink-0">
             <img src="./images/logo.png" alt="" className="w-48 h-48 opacity-10 md:opacity-20 rotate-12" />

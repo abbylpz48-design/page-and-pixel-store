@@ -20,9 +20,6 @@ function Home() {
           <Link to="/catalog" className="bg-secondary text-white px-10 py-4 rounded-cozy-md font-bold text-lg hover:scale-105 transition-all shadow-cozy-md">
             Browse the Collection
           </Link>
-          <Link to="/subscription" className="bg-parchment text-primary border border-primary/10 px-10 py-4 rounded-cozy-md font-bold text-lg hover:bg-white transition-all shadow-cozy-sm">
-            Monthly Subscription
-          </Link>
         </div>
       </section>
 
@@ -38,8 +35,8 @@ function Home() {
         </div>
         <div className="flex flex-col items-center text-center gap-4">
           <div className="w-16 h-16 bg-cream rounded-full flex items-center justify-center text-secondary text-3xl font-serif shadow-cozy-sm">2</div>
-          <h3 className="text-2xl font-serif">Tactile Charm</h3>
-          <p className="text-ink leading-relaxed">We ship every order with a custom-designed bookmark and a handwritten thank you note.</p>
+            <h3 className="text-2xl font-serif">Support Local</h3>
+            <p className="text-ink leading-relaxed">Every purchase supports independent bookstores through our partnership with Bookshop.org.</p>
         </div>
         <div className="flex flex-col items-center text-center gap-4">
           <div className="w-16 h-16 bg-cream rounded-full flex items-center justify-center text-secondary text-3xl font-serif shadow-cozy-sm">3</div>
@@ -48,34 +45,6 @@ function Home() {
         </div>
       </section>
 
-      {/* Handwritten Note Preview */}
-      <section className="flex flex-col md:flex-row items-center gap-12 bg-parchment/30 p-10 rounded-cozy-lg">
-        <div className="flex-1 flex flex-col gap-6">
-          <h2 className="text-4xl font-serif">The Personal Touch</h2>
-          <p className="text-lg text-ink">
-            At Page & Pixel, we believe a book is a gift—even if you're buying it for yourself. 
-            That's why every package includes a little piece of us.
-          </p>
-          <ul className="flex flex-col gap-3 font-sans font-medium text-primary">
-            <li className="flex items-center gap-2">
-              <span className="text-secondary font-bold">✓</span> Personalized handwritten note
-            </li>
-            <li className="flex items-center gap-2">
-              <span className="text-secondary font-bold">✓</span> Custom artisanal bookmark
-            </li>
-            <li className="flex items-center gap-2">
-              <span className="text-secondary font-bold">✓</span> Beautifully wrapped in tissue paper
-            </li>
-          </ul>
-        </div>
-        <div className="flex-1 flex justify-center">
-          <div className="handwritten-card max-w-sm">
-            <p className="font-script-brand text-2xl text-accent">
-              "Hi Sarah! We hope you love this copy of 'Project Hail Mary'. We've included a matching space-themed bookmark just for you. Happy reading! — Page & Pixel"
-            </p>
-          </div>
-        </div>
-      </section>
     </div>
   );
 }

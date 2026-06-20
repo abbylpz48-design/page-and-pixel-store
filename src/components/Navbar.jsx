@@ -14,7 +14,6 @@ function Navbar() {
         <div className="hidden md:flex gap-8 items-center">
           <Link to="/" className="font-medium hover:text-secondary transition-colors">Home</Link>
           <Link to="/catalog" className="font-medium hover:text-secondary transition-colors">Catalog</Link>
-          <Link to="/subscription" className="font-medium hover:text-secondary transition-colors">Subscription</Link>
           <Link to="/about" className="font-medium hover:text-secondary transition-colors">About</Link>
           <Link to="/contact" className="bg-secondary text-white px-5 py-2 rounded-cozy-md font-bold hover:scale-105 transition-all shadow-cozy-sm">
             Contact
