@@ -40,7 +40,7 @@ function Subscription() {
           </ul>
           
           <a 
-            href="https://buy.stripe.com/PLACEHOLDER_STRIPE_LINK_SUBSCRIPTION"
+            href="https://bookshop.org/a/125372"
             className="mt-4 bg-secondary text-white w-full py-4 rounded-cozy-md font-bold text-lg hover:bg-[#B45309] transition-all shadow-cozy-md active:scale-95 text-center inline-block"
           >
             Join the Club
@@ -58,7 +58,7 @@ function Subscription() {
           that never expire and always delight.
         </p>
         <a 
-          href="https://buy.stripe.com/PLACEHOLDER_STRIPE_LINK_GIFT_SUBSCRIPTION"
+          href="https://bookshop.org/a/125372"
           className="text-secondary font-bold hover:underline inline-block"
         >
           View Gift Options →
