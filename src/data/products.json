@@ -6,7 +6,7 @@
     "price": 18.99,
     "category": "fiction",
     "description": "Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived.",
-    "image": "/images/cover_fiction.png",
+    "image": "./images/cover_fiction.png",
     "stripeLink": "https://buy.stripe.com/PLACEHOLDER_STRIPE_LINK_FICTION"
   },
   {
@@ -16,7 +16,7 @@
     "price": 21.50,
     "category": "non-fiction",
     "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day.",
-    "image": "/images/cover_nonfiction.png",
+    "image": "./images/cover_nonfiction.png",
     "stripeLink": "https://buy.stripe.com/PLACEHOLDER_STRIPE_LINK_NONFICTION"
   },
   {
@@ -26,7 +26,7 @@
     "price": 15.00,
     "category": "children",
     "description": "Max, a wild and naughty boy, is sent to bed without his supper by his exhausted mother. In his room, he imagines a magical world.",
-    "image": "/images/cover_children.png",
+    "image": "./images/cover_children.png",
     "stripeLink": "https://buy.stripe.com/PLACEHOLDER_STRIPE_LINK_CHILDREN"
   }
 ]

@@ -6,7 +6,7 @@ function Navbar() {
     <nav className="bg-primary text-white shadow-cozy-md sticky top-0 z-50">
       <div className="container mx-auto px-4 py-3 flex justify-between items-center">
         <Link to="/" className="flex items-center gap-3 group">
-          <img src="/images/logo.png" alt="Page & Pixel Logo" className="h-12 w-12 object-contain" />
+          <img src="./images/logo.png" alt="Page & Pixel Logo" className="h-12 w-12 object-contain" />
           <span className="text-2xl font-serif tracking-tight font-bold">
             Page <span className="text-secondary">&</span> Pixel
           </span>

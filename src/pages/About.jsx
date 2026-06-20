@@ -19,7 +19,7 @@ function About() {
             </p>
           </div>
           <div className="flex-shrink-0">
-            <img src="/images/logo.png" alt="" className="w-48 h-48 opacity-10 md:opacity-20 rotate-12" />
+            <img src="./images/logo.png" alt="" className="w-48 h-48 opacity-10 md:opacity-20 rotate-12" />
           </div>
         </div>
       </section>

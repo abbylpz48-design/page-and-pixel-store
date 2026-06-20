@@ -7,7 +7,7 @@ function Home() {
       {/* Hero Section */}
       <section className="relative overflow-hidden bg-white p-12 md:p-20 rounded-cozy-lg shadow-cozy-md flex flex-col items-center text-center gap-8">
         <div className="absolute top-0 right-0 p-8 opacity-10">
-          <img src="/images/logo.png" alt="" className="w-64 h-64 rotate-12" />
+          <img src="./images/logo.png" alt="" className="w-64 h-64 rotate-12" />
         </div>
         
         <h1 className="text-4xl md:text-6xl font-serif text-primary max-w-4xl leading-tight">

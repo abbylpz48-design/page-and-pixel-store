@@ -13,7 +13,7 @@ function Subscription() {
 
       <div className="bg-white p-1 md:p-10 rounded-cozy-lg shadow-cozy-lg border border-parchment max-w-4xl w-full flex flex-col md:flex-row gap-10 overflow-hidden">
         <div className="flex-1 bg-cream p-8 rounded-cozy-md flex flex-col justify-center items-center text-center gap-6">
-          <img src="/images/logo.png" alt="" className="h-32 w-32 opacity-20" />
+          <img src="./images/logo.png" alt="" className="h-32 w-32 opacity-20" />
           <h3 className="text-3xl font-serif text-primary">The Monthly Surprise</h3>
           <p className="text-4xl font-bold text-secondary">$39.99 <span className="text-lg font-normal text-ink">/ month</span></p>
         </div>

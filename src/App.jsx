@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './pages/Home';
 import Catalog from './pages/Catalog';
@@ -24,7 +24,7 @@ function App() {
         <footer className="bg-primary text-white py-12">
           <div className="container mx-auto px-4 flex flex-col items-center gap-6">
             <div className="flex items-center gap-3">
-              <img src="/images/logo.png" alt="" className="h-10 w-10 brightness-0 invert opacity-80" />
+              <img src="./images/logo.png" alt="" className="h-10 w-10 brightness-0 invert opacity-80" />
               <span className="text-xl font-serif tracking-tight font-bold">
                 Page & Pixel
               </span>
