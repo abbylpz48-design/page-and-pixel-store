@@ -39,9 +39,12 @@ function Subscription() {
             </li>
           </ul>
           
-          <button className="mt-4 bg-secondary text-white w-full py-4 rounded-cozy-md font-bold text-lg hover:bg-[#B45309] transition-all shadow-cozy-md active:scale-95">
+          <a 
+            href="https://buy.stripe.com/PLACEHOLDER_STRIPE_LINK_SUBSCRIPTION"
+            className="mt-4 bg-secondary text-white w-full py-4 rounded-cozy-md font-bold text-lg hover:bg-[#B45309] transition-all shadow-cozy-md active:scale-95 text-center inline-block"
+          >
             Join the Club
-          </button>
+          </a>
           <p className="text-center text-xs text-ink/60 font-sans uppercase tracking-widest">Cancel or skip any month</p>
         </div>
       </div>
@@ -54,7 +57,12 @@ function Subscription() {
           Share the magic of reading with someone special. We offer 3, 6, and 12-month gift subscriptions 
           that never expire and always delight.
         </p>
-        <button className="text-secondary font-bold hover:underline">View Gift Options →</button>
+        <a 
+          href="https://buy.stripe.com/PLACEHOLDER_STRIPE_LINK_GIFT_SUBSCRIPTION"
+          className="text-secondary font-bold hover:underline inline-block"
+        >
+          View Gift Options →
+        </a>
       </section>
     </div>
   );
