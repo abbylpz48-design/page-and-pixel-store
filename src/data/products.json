@@ -1,32 +1,32 @@
 [
   {
-    "id": "prod_fiction_1",
-    "title": "The Midnight Library",
-    "author": "Matt Haig",
+    "id": "prod_fiction_hail_mary",
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
     "price": 18.99,
     "category": "fiction",
-    "description": "Between life and death there is a library, and within that library, the shelves go on forever. Every book provides a chance to try another life you could have lived.",
-    "image": "./images/cover_fiction.png",
-    "stripeLink": "https://buy.stripe.com/PLACEHOLDER_STRIPE_LINK_FICTION"
+    "description": "Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the earth itself will perish. A gripping tale of survival, science, and the power of friendship.",
+    "image": "./images/cover_hail_mary.png",
+    "stripeLink": "https://buy.stripe.com/3cIfZh8E45OJ0W91X91oI00"
   },
   {
-    "id": "prod_nonfiction_1",
+    "id": "prod_nonfiction_atomic_habits",
     "title": "Atomic Habits",
     "author": "James Clear",
     "price": 21.50,
     "category": "non-fiction",
-    "description": "No matter your goals, Atomic Habits offers a proven framework for improving—every day.",
-    "image": "./images/cover_nonfiction.png",
-    "stripeLink": "https://buy.stripe.com/PLACEHOLDER_STRIPE_LINK_NONFICTION"
+    "description": "The definitive guide to breaking bad behaviors and adopting good ones in four steps, showing you how small, incremental, everyday routines compound into massive, positive change over time.",
+    "image": "./images/cover_atomic_habits.png",
+    "stripeLink": "https://buy.stripe.com/4gM8wPg6w90V34hgS31oI01"
   },
   {
-    "id": "prod_children_1",
-    "title": "Where the Wild Things Are",
-    "author": "Maurice Sendak",
-    "price": 15.00,
+    "id": "prod_children_places_go",
+    "title": "Oh, the Places You'll Go!",
+    "author": "Dr. Seuss",
+    "price": 14.99,
     "category": "children",
-    "description": "Max, a wild and naughty boy, is sent to bed without his supper by his exhausted mother. In his room, he imagines a magical world.",
-    "image": "./images/cover_children.png",
-    "stripeLink": "https://buy.stripe.com/PLACEHOLDER_STRIPE_LINK_CHILDREN"
+    "description": "Dr. Seuss’s wonderfully wise graduation speech is the perfect send-off for children starting out in the world, from nursery school to college and beyond!",
+    "image": "./images/cover_places_go.png",
+    "stripeLink": "https://buy.stripe.com/3cIdR907y4KFeMZ0T51oI02"
   }
 ]

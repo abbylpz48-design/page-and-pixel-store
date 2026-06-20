@@ -71,7 +71,7 @@ function Home() {
         <div className="flex-1 flex justify-center">
           <div className="handwritten-card max-w-sm">
             <p className="font-script-brand text-2xl text-accent">
-              "Hi Sarah! We hope you love this copy of 'The Midnight Library'. We've included a matching oak-leaf bookmark just for you. Happy reading! — Page & Pixel"
+              "Hi Sarah! We hope you love this copy of 'Project Hail Mary'. We've included a matching space-themed bookmark just for you. Happy reading! — Page & Pixel"
             </p>
           </div>
         </div>
